@@ -1,0 +1,14 @@
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CleanArch_DIP_DI_IOC.exe
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CleanArch_DIP_DI_IOC.deps.json
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CleanArch_DIP_DI_IOC.runtimeconfig.json
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CleanArch_DIP_DI_IOC.dll
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CleanArch_DIP_DI_IOC.pdb
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CleanArch_DIP_DI_IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CleanArch_DIP_DI_IOC.AssemblyInfoInputs.cache
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CleanArch_DIP_DI_IOC.AssemblyInfo.cs
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CleanArch_DIP_DI_IOC.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CleanArch_DIP_DI_IOC.dll
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\CleanArch_DIP_DI_IOC.dll
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CleanArch_DIP_DI_IOC.pdb
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CleanArch_DIP_DI_IOC.genruntimeconfig.cache
+C:\Users\Bruno Bafilli\Desktop\web\treinamento1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\CleanArch_DIP_DI_IOC.dll
